@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "972268029024",
+    "firebase_url": "https://coworkingapps.firebaseio.com",
+    "project_id": "coworkingapps",
+    "storage_bucket": "coworkingapps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972268029024:android:d17cb59e30d634ba",
+        "android_client_info": {
+          "package_name": "com.iqbalhood.coworking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972268029024-2g1t2pj33nvtt9l27tul9jrbgn71g118.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iqbalhood.coworking",
+            "certificate_hash": "7e6057286c7df5faf6babb4a935a1834d9b362eb"
+          }
+        },
+        {
+          "client_id": "972268029024-3p0tfqf4caeqg5k51c35bpkt076ef768.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "972268029024-3p0tfqf4caeqg5k51c35bpkt076ef768.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI00zJSsKRXB0Z0Fy5tE_-AtG65qzE10k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972268029024-3p0tfqf4caeqg5k51c35bpkt076ef768.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
